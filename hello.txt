@@ -6,7 +6,7 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-222222222
+222222222 master conflict test
 333333333
 hot fix
 
